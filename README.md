@@ -60,6 +60,9 @@ The final test set contains 40 human-reviewed examples, including 17 examples wi
 
 ## 5. Project Architecture
 
+<img width="797" height="566" alt="image" src="https://github.com/user-attachments/assets/088c6aa0-3a2b-4f30-8284-d9f503ea7d5a" />
+
+
 The project consists of two major stages.
 
 ### Stage 1: Medical RAG Pipeline
